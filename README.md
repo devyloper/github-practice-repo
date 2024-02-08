@@ -8,4 +8,14 @@ This is the third line.
 <br>
 This is the fourth line.
 <br>
-The fifth line was modified in commit number 2.
+This is the fifth line.
+<br>
+This is the sixth line.
+<br>
+This is the seventh line.
+<br>
+This is the eighth line.
+<br>
+This is the ninth line.
+<br>
+This is the tenth line.
